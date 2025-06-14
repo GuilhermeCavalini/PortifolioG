@@ -1,4 +1,3 @@
-import "./App.css";
 import { Sobre } from "./components/Banner/Banner";
 import { Contato } from "./components/Contatos";
 import { Habilidades } from "./components/Habilidades";
