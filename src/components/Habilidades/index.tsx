@@ -16,7 +16,7 @@ const Skills = styled.div`
     font-size: 2.5rem;
     margin-bottom: 10rem;
     font-weight: 600;
-    text-align: center; /* Adicione esta linha */
+    text-align: center;
 
     @media (max-width: 768px) {
       font-size: 1.8rem;
@@ -91,7 +91,7 @@ const LinhaSobre = styled.div`
   width: 80rem;
   height: 0.1rem;
   background-color: var(--cor-primaria);
-  margin-top: 0.1rem;
+  margin: 0.1rem auto 0 auto;
 
   @media (max-width: 768px) {
     width: 100%;

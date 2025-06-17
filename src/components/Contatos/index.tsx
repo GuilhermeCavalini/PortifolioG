@@ -29,7 +29,6 @@ const Title = styled.h2`
   font-size: 4rem;
   font-weight: 600;
   margin-bottom: 7rem;
-  color: #000;
   @media (max-width: 768px) {
     font-size: 2rem;
     margin-bottom: 3rem;

@@ -152,13 +152,12 @@ const LinhaSobre = styled.div`
   width: 80rem;
   height: 0.1rem;
   background-color: var(--cor-primaria);
-  margin-top: 0.1rem;
+  margin: 0.1rem auto 0 auto;
 
   @media (max-width: 768px) {
     width: 100%;
   }
 `;
-
 export const Projetos: React.FC = () => {
   return (
     <Section id="projetos">
