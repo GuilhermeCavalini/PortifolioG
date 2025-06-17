@@ -10,7 +10,7 @@ const Section = styled.section`
 `;
 
 const SobreBanner = styled.div`
-  margin: 10rem auto 3rem;
+  margin: 8rem auto 3rem;
   width: 90%;
   display: flex;
   flex-direction: column;
